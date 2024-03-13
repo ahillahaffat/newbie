@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "41322564927",
+    "project_id": "gemastik-bedaa",
+    "storage_bucket": "gemastik-bedaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41322564927:android:3bba97b0c94c2e491f978a",
+        "android_client_info": {
+          "package_name": "com.belajar.kammala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41322564927-fk334o9bplltdkdukbepvgr85em7cihl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0Y0hk1k-5PoFHOIAwGygkaUbb3k8xZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41322564927-fk334o9bplltdkdukbepvgr85em7cihl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41322564927-0e3ovdkhdhqptir799jfru88mb2fa64o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newbie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

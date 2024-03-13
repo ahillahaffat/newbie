@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAL_jkOHK5Y16_SS8u06EzuCSXRCO1UGhY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>41322564927</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.newbie</string>
+	<key>PROJECT_ID</key>
+	<string>gemastik-bedaa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gemastik-bedaa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:41322564927:ios:e2ae58d1b6ddbc511f978a</string>
+</dict>
+</plist>
